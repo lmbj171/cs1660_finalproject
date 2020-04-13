@@ -1,3 +1,6 @@
+Video walkthrough:
+https://www.youtube.com/watch?v=NcaZ7-sCizI
+
 Project Criteria:
 1. First java application implementation and execution on Docker
 2. Docker to local (or GCP) cluster communication 
