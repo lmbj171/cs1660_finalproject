@@ -1,5 +1,8 @@
-Video walkthrough:
+GUI walkthrough/demonstration:
 https://www.youtube.com/watch?v=NcaZ7-sCizI
+
+Code walkthrough:
+https://www.youtube.com/watch?v=Q2WeXw7zmGM
 
 Project Criteria:
 1. First java application implementation and execution on Docker
